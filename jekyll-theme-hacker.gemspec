@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |s|
-  s.name          = "jekyll-theme-hacker"
-  s.version       = "0.2.0"
+  s.name          = "jekyll-theme-hacker-asb"
+  s.version       = "0.2.1"
   s.license       = "CC0-1.0"
   s.authors       = ["Jason Costello", "GitHub, Inc."]
   s.email         = ["opensource+jekyll-theme-hacker@github.com"]
